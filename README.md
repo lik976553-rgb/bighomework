@@ -31,4 +31,7 @@ ai_parser.h、deepseek_config.h：AI 解析与 DeepSeek 配置
 
 说明
 
+演示视频：https://disk.pku.edu.cn/link/AA6C907185E2E5433A8E110F6888A9EDA0
+提取码：pS88
+
 源码包已排除编译产物、Qt 临时文件、个人用户数据和饮食记录数据。
