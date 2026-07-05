@@ -30,6 +30,5 @@ ai_parser.h、deepseek_config.h：AI 解析与 DeepSeek 配置
 如果只发送可执行程序，请同时把 nutrition_db.csv 放在 exe 同级目录，否则营养数据库无法加载。
 
 说明
-演示视频：https://disk.pku.edu.cn/link/AR09CF485D9A444C52BE2AB9DC6069EEC3
 
 源码包已排除编译产物、Qt 临时文件、个人用户数据和饮食记录数据。
