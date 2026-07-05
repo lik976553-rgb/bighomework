@@ -39,6 +39,4 @@
 
 ## 说明
 
-演示视频：https://disk.pku.edu.cn/link/AR09CF485D9A444C52BE2AB9DC6069EEC3
-
 源码包已排除编译产物、Qt 临时文件、个人用户数据和饮食记录数据。
